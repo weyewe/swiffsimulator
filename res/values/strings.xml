@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello baby, you have to pay some money</string>
+    <string name="app_name">SwiffSimulator</string>
+    
+    <string name="exePayment">Pay!</string>
+
+</resources>
